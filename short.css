@@ -20,6 +20,20 @@
 .d-b{display: block;}
 .d-f{display: flex;}
 
+/* overflow */
+
+.o-a{overflow: auto;}
+.o-h{overflow: hidden;}
+.o-s{overflow: scroll;}
+
+.ox-a{overflow-x: auto;}
+.ox-h{overflow-x: hidden;}
+.ox-s{overflow-x: scroll;}
+
+.oy-a{overflow-y: auto;}
+.oy-h{overflow-y: hidden;}
+.oy-s{overflow-y: scroll;}
+
 /* border */
 
 .b-1{border: 1px solid black;}
