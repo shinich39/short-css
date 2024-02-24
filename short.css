@@ -5,6 +5,8 @@
 .p-s{position: static;}
 .p-f{position: fixed;}
 
+.p-c{position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);}
+
 /* float */
 
 .f-l{float: left;}
@@ -36,6 +38,7 @@
 
 /* border */
 
+.b-0{border: 0px solid black;}
 .b-1{border: 1px solid black;}
 .b-2{border: 2px solid black;}
 .b-3{border: 3px solid black;}
@@ -46,6 +49,7 @@
 .b-8{border: 8px solid black;}
 .b-9{border: 9px solid black;}
 
+.bt-0{border-top: 0px solid black;}
 .bt-1{border-top: 1px solid black;}
 .bt-2{border-top: 2px solid black;}
 .bt-3{border-top: 3px solid black;}
@@ -56,6 +60,7 @@
 .bt-8{border-top: 8px solid black;}
 .bt-9{border-top: 9px solid black;}
 
+.bb-0{border-bottom: 0px solid black;}
 .bb-1{border-bottom: 1px solid black;}
 .bb-2{border-bottom: 2px solid black;}
 .bb-3{border-bottom: 3px solid black;}
@@ -66,6 +71,7 @@
 .bb-8{border-bottom: 8px solid black;}
 .bb-9{border-bottom: 9px solid black;}
 
+.bl-0{border-left: 0px solid black;}
 .bl-1{border-left: 1px solid black;}
 .bl-2{border-left: 2px solid black;}
 .bl-3{border-left: 3px solid black;}
@@ -76,6 +82,7 @@
 .bl-8{border-left: 8px solid black;}
 .bl-9{border-left: 9px solid black;}
 
+.br-0{border-right: 0px solid black;}
 .br-1{border-right: 1px solid black;}
 .br-2{border-right: 2px solid black;}
 .br-3{border-right: 3px solid black;}
